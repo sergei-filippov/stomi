@@ -1,0 +1,57 @@
+{
+    "test_5s/ping/ping.txt": {
+        "destination": "192.168.0.10",
+        "packet_transmit": 5,
+        "packet_receive": 5,
+        "packet_loss_count": 0,
+        "packet_loss_rate": 0.0,
+        "rtt_min": 0.574,
+        "rtt_avg": 0.684,
+        "rtt_max": 1.041,
+        "rtt_mdev": 0.18,
+        "packet_duplicate_count": 0,
+        "packet_duplicate_rate": 0.0,
+        "icmp_replies": [
+            {
+                "destination": "192.168.0.10",
+                "bytes": 64,
+                "icmp_seq": 1,
+                "ttl": 64,
+                "time": 0.574,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.0.10",
+                "bytes": 64,
+                "icmp_seq": 2,
+                "ttl": 64,
+                "time": 0.583,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.0.10",
+                "bytes": 64,
+                "icmp_seq": 3,
+                "ttl": 64,
+                "time": 0.574,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.0.10",
+                "bytes": 64,
+                "icmp_seq": 4,
+                "ttl": 64,
+                "time": 0.648,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.0.10",
+                "bytes": 64,
+                "icmp_seq": 5,
+                "ttl": 64,
+                "time": 1.04,
+                "duplicate": false
+            }
+        ]
+    }
+}
