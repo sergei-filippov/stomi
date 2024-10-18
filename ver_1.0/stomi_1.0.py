@@ -140,13 +140,13 @@ def test_connection(ip_address, result_folder):
             
 
 def main():
-    duration = 5 # seconds of each iperf3 measurement
-    ping_amount = 5 # amount of pings. equals to seconds, as 1 ping = 1 second
-    ip_address = '192.168.0.6'  # aim IP address
-    folder_name = "test_5sec_bar-chart"  # where all the plots will be stored
+    duration = 120 # seconds of each iperf3 measurement
+    ping_amount = 120 # amount of pings. equals to seconds, as 1 ping = 1 second
+    ip_address = '192.168.1.2'  # aim IP address
+    folder_name = "test_120sec_2switch_15G"  # where all the plots will be stored
     throughput_threshold = 1 # maximum allowed lost percentage
-    start_bandwidth = 300 # the upper limit, higher than maximum expected rate. in Mbit/s e.x. 15000M = 15Gbit/s
-    bandwidth_step = 50 # how fast and precise search of the throughtput is. in Mbit/s
+    start_bandwidth = 15000 # the upper limit, higher than maximum expected rate. in Mbit/s e.x. 15000M = 15Gbit/s
+    bandwidth_step = 300 # how fast and precise search of the throughtput is. in Mbit/s
 
     os.system('rm -rf ' + folder_name)  # delete all previos data in the folder. if you want your data saved than change the name of the folder
 

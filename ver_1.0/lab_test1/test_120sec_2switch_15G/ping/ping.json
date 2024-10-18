@@ -1,0 +1,449 @@
+{
+    "test_120sec_2switch_15G/ping/ping.txt": {
+        "destination": "192.168.1.2",
+        "packet_transmit": 120,
+        "packet_receive": 54,
+        "packet_loss_count": 66,
+        "packet_loss_rate": 55.00000000000001,
+        "rtt_min": 0.151,
+        "rtt_avg": 0.485,
+        "rtt_max": 0.567,
+        "rtt_mdev": 0.07,
+        "packet_duplicate_count": 0,
+        "packet_duplicate_rate": 0.0,
+        "icmp_replies": [
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 1,
+                "ttl": 64,
+                "time": 0.411,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 2,
+                "ttl": 64,
+                "time": 0.548,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 3,
+                "ttl": 64,
+                "time": 0.567,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 4,
+                "ttl": 64,
+                "time": 0.503,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 5,
+                "ttl": 64,
+                "time": 0.536,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 6,
+                "ttl": 64,
+                "time": 0.517,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 7,
+                "ttl": 64,
+                "time": 0.453,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 8,
+                "ttl": 64,
+                "time": 0.443,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 9,
+                "ttl": 64,
+                "time": 0.432,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 10,
+                "ttl": 64,
+                "time": 0.463,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 11,
+                "ttl": 64,
+                "time": 0.543,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 12,
+                "ttl": 64,
+                "time": 0.475,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 13,
+                "ttl": 64,
+                "time": 0.519,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 14,
+                "ttl": 64,
+                "time": 0.526,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 15,
+                "ttl": 64,
+                "time": 0.416,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 16,
+                "ttl": 64,
+                "time": 0.479,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 17,
+                "ttl": 64,
+                "time": 0.319,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 18,
+                "ttl": 64,
+                "time": 0.519,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 19,
+                "ttl": 64,
+                "time": 0.541,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 20,
+                "ttl": 64,
+                "time": 0.534,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 21,
+                "ttl": 64,
+                "time": 0.472,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 22,
+                "ttl": 64,
+                "time": 0.291,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 23,
+                "ttl": 64,
+                "time": 0.483,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 24,
+                "ttl": 64,
+                "time": 0.561,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 25,
+                "ttl": 64,
+                "time": 0.507,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 26,
+                "ttl": 64,
+                "time": 0.525,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 27,
+                "ttl": 64,
+                "time": 0.549,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 28,
+                "ttl": 64,
+                "time": 0.498,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 29,
+                "ttl": 64,
+                "time": 0.554,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 30,
+                "ttl": 64,
+                "time": 0.538,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 31,
+                "ttl": 64,
+                "time": 0.493,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 32,
+                "ttl": 64,
+                "time": 0.43,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 33,
+                "ttl": 64,
+                "time": 0.537,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 34,
+                "ttl": 64,
+                "time": 0.548,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 35,
+                "ttl": 64,
+                "time": 0.549,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 36,
+                "ttl": 64,
+                "time": 0.525,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 37,
+                "ttl": 64,
+                "time": 0.493,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 38,
+                "ttl": 64,
+                "time": 0.503,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 39,
+                "ttl": 64,
+                "time": 0.465,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 40,
+                "ttl": 64,
+                "time": 0.477,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 41,
+                "ttl": 64,
+                "time": 0.493,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 42,
+                "ttl": 64,
+                "time": 0.529,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 43,
+                "ttl": 64,
+                "time": 0.515,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 44,
+                "ttl": 64,
+                "time": 0.485,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 45,
+                "ttl": 64,
+                "time": 0.511,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 46,
+                "ttl": 64,
+                "time": 0.49,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 47,
+                "ttl": 64,
+                "time": 0.498,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 48,
+                "ttl": 64,
+                "time": 0.151,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 49,
+                "ttl": 64,
+                "time": 0.385,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 50,
+                "ttl": 64,
+                "time": 0.473,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 51,
+                "ttl": 64,
+                "time": 0.492,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 52,
+                "ttl": 64,
+                "time": 0.5,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 53,
+                "ttl": 64,
+                "time": 0.457,
+                "duplicate": false
+            },
+            {
+                "destination": "192.168.1.2",
+                "bytes": 64,
+                "icmp_seq": 54,
+                "ttl": 64,
+                "time": 0.497,
+                "duplicate": false
+            }
+        ]
+    }
+}
